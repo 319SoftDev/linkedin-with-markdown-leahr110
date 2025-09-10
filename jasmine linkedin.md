@@ -1,4 +1,4 @@
-# **Jasmine Morelos** 
+# **Jasmine Morelos** ![Jasmine Bitmoji](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkK0q8jxwrKDMZJoOgGhseVS-wE9tHcFwkOQ&s) 
 ### High School of Fashion Industries
 
  Major : Software Development
@@ -22,6 +22,9 @@
 * Photography
 
 #### Work Expierence/Clubs 
-* Warby Parker - Work Based Learning Challenge
-*  NHS
-*  Youth Leader 
+
+1. Warby Parker - Work Based Learning Challenge
+
+2.  NHS
+
+3.  Youth Leader 
